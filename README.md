@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wordle Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Wordle clone created with React, Typescript and Tailwind.
 
 ## Available Scripts
 
