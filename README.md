@@ -2,6 +2,10 @@
 
 This is a simple Wordle clone created with React, Typescript and Tailwind.
 
+## Gameplay
+
+From wikipedia: "Every day, a five-letter word is chosen which players aim to guess within six tries. After every guess, each letter is marked as either green, yellow or gray: green indicates that letter is correct and in the correct position, yellow means it is in the answer but not in the right position, while gray indicates it is not in the answer at all."
+
 ## Available Scripts
 
 In the project directory, you can run:
